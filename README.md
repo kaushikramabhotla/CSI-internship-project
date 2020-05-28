@@ -11,10 +11,11 @@
 
 
 
-#License
+# License
+
 MIT License
 
-Copyright (c) 2020 Kaushik ramabhotla
+Copyright (c) 2020 Kaushik ramabhotla,Juhi Kumari,Vishnu Pappu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

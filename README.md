@@ -4,12 +4,9 @@
 
 
 # Contributors : 
-1. Kaushik Ramabhotla  ()
-2. Juhi Kumari         ()
-3. Vishnu Pappu        ()
-
-
-
+1. Kaushik Ramabhotla  [Myself](https://github.com/kaushikramabhotla)
+2. Juhi Kumari         []()
+3. Vishnu Pappu        [psvishnu25](https://github.com/psvishnu25)
 
 # License
 

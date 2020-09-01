@@ -1,7 +1,6 @@
 # Final_Project
 
-
-
+Applied Machine Learning techniques to predict Whether the customer will leave the bank in the long run or not.
 
 # Contributors : 
 1. Kaushik Ramabhotla  [Myself](https://github.com/kaushikramabhotla)

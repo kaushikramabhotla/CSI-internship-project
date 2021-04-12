@@ -1,4 +1,5 @@
-# Final_Project
+# CSI Internship Project
+
 
 Applied Machine Learning techniques to predict Whether the customer will leave the bank in the long run or not.
 
